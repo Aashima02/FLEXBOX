@@ -76,7 +76,7 @@ Repeat the testing and iteration process until the layout meets your requirement
 
 ## OUTPUT:
 
-<img width="1280" alt="image" src="https://github.com/Monisha-11/EXP-03---MODERN-WEB/assets/93427240/b3a35b2d-cddd-4101-95c6-0900a6f2ab1b">
+![image](https://github.com/Aashima02/FLEXBOX/assets/93427086/02e05b6c-b94a-41bf-8481-1b2b5905fe08)
 
 ## RESULT:
 
